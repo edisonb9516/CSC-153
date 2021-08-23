@@ -1,0 +1,6 @@
+D:\School\Spring 2020\C#\HW\AgeList\bin\Debug\AgeList.exe.config
+D:\School\Spring 2020\C#\HW\AgeList\bin\Debug\AgeList.exe
+D:\School\Spring 2020\C#\HW\AgeList\bin\Debug\AgeList.pdb
+D:\School\Spring 2020\C#\HW\AgeList\obj\Debug\AgeList.csprojAssemblyReference.cache
+D:\School\Spring 2020\C#\HW\AgeList\obj\Debug\AgeList.exe
+D:\School\Spring 2020\C#\HW\AgeList\obj\Debug\AgeList.pdb

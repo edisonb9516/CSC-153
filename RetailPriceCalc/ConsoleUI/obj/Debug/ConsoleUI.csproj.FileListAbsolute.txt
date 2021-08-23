@@ -1,0 +1,13 @@
+D:\School\Spring 2020\C#\HW\Module3\RetailPriceCalc\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+D:\School\Spring 2020\C#\HW\Module3\RetailPriceCalc\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\School\Spring 2020\C#\HW\Module3\RetailPriceCalc\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\School\Spring 2020\C#\HW\Module3\RetailPriceCalc\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\School\Spring 2020\C#\HW\Module3\RetailPriceCalc\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\School\Spring 2020\C#\HW\Module3\RetailPriceCalc\ConsoleUI\obj\Debug\ConsoleUI.pdb
+E:\School\Spring 2020\C#\HW\Module3\RetailPriceCalc\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+E:\School\Spring 2020\C#\HW\Module3\RetailPriceCalc\ConsoleUI\bin\Debug\ConsoleUI.exe
+E:\School\Spring 2020\C#\HW\Module3\RetailPriceCalc\ConsoleUI\bin\Debug\ConsoleUI.pdb
+E:\School\Spring 2020\C#\HW\Module3\RetailPriceCalc\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+E:\School\Spring 2020\C#\HW\Module3\RetailPriceCalc\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+E:\School\Spring 2020\C#\HW\Module3\RetailPriceCalc\ConsoleUI\obj\Debug\ConsoleUI.exe
+E:\School\Spring 2020\C#\HW\Module3\RetailPriceCalc\ConsoleUI\obj\Debug\ConsoleUI.pdb

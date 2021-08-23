@@ -1,0 +1,6 @@
+E:\School\Spring 2020\C#\HW\Module3\FallingDistance\ClassLibrary\bin\Debug\ClassLibrary.dll
+E:\School\Spring 2020\C#\HW\Module3\FallingDistance\ClassLibrary\bin\Debug\ClassLibrary.pdb
+E:\School\Spring 2020\C#\HW\Module3\FallingDistance\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+E:\School\Spring 2020\C#\HW\Module3\FallingDistance\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\School\Spring 2020\C#\HW\Module3\FallingDistance\ClassLibrary\obj\Debug\ClassLibrary.dll
+E:\School\Spring 2020\C#\HW\Module3\FallingDistance\ClassLibrary\obj\Debug\ClassLibrary.pdb
